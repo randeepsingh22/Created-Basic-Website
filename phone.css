@@ -1,0 +1,56 @@
+nav h2{
+    padding: 10px;
+    font-size: 1rem;
+    letter-spacing: 0px;
+    text-align: center;
+    max-width: fit-content;
+    letter-spacing: 2px;
+
+}
+nav h2:hover{
+    font-size: 1.1rem;
+}
+.web .visioncontainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.mainhead{
+    margin-top: 5rem;
+}
+.webblock{
+    padding: 0px;
+    max-width: fit-content;
+}
+.form{
+   width: 240px;
+   height: 280px;
+
+}
+input{
+    padding: 3px;
+    margin-top: 3px;
+}
+.mainhead h2{
+    font-size: .6rem;
+    align-items: center;
+    max-width:max-content;
+}
+.mainhead p{
+    font-size: 0.5rem;
+    max-width: fit-content;
+}
+.sub{
+    width: 100px;
+    font-size: 1rem;
+    margin: 5px;
+    padding: 2px 5px;
+}
+footer{
+    font-size: .5rem;
+}
+.checkbox{
+    font-size: 15px;
+}
